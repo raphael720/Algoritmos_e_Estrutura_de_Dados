@@ -1,4 +1,4 @@
-# Algoritmos e Estrutura de Dados
+<h1 align="center">Algoritmo e estrutura de dados</h1>
 
 <p align="center">💻 Meus estudos sobre algoritmos e estruturas de dados</p>
 
