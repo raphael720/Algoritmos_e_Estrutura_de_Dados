@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1640635864 source:c:\users\rapha\onedrive\desktop\raphael\projetos\estrutura de dados\listas encadeadas\listaduplamenteencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_dupla.h"
+
+1640635932 c:\users\rapha\onedrive\desktop\raphael\projetos\estrutura de dados\listas encadeadas\listaduplamenteencadeada\lista_dupla.h
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1640291249 source:c:\users\rapha\onedrive\desktop\raphael\projetos\estrutura de dados\listas encadeadas\listasimplesmenteencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1640290413 c:\users\rapha\onedrive\desktop\raphael\projetos\estrutura de dados\listas encadeadas\listasimplesmenteencadeada\lista.h
+
+1640291084 source:c:\users\rapha\onedrive\desktop\raphael\projetos\estrutura de dados\listas encadeadas\listasimplesmenteencadeada\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
