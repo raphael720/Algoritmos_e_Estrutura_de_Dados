@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1642116939 source:c:\users\rapha\onedrive\desktop\raphael\projetos\estrutura de dados\pilhas e filas\pilha_lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1642116588 c:\users\rapha\onedrive\desktop\raphael\projetos\estrutura de dados\pilhas e filas\pilha_lista\pilha.h
+
+1642116996 source:c:\users\rapha\onedrive\desktop\raphael\projetos\estrutura de dados\pilhas e filas\pilha_lista\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+

@@ -14,10 +14,10 @@ Tabela de conteúdos
 * [Sobre](#Sobre) 
 * [Tabela de Conteúdo](#tabela-de-conteudo) 
 *  [Algoritmos básicos](#como-usar) 
-	*  [Busca](#pre-requisitos) 
-	*  [Ordenação](#multiple-files) 
+	*  [Busca](https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/tree/main/Busca%20e%20ordena%C3%A7%C3%A3o) 
+	*  [Ordenação](https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/tree/main/Busca%20e%20ordena%C3%A7%C3%A3os) 
 * [Estrutura de dados](#)
-	*  [Listas encadeadas](#pre-requisitos) 
+	*  [Listas encadeadas](https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/tree/main/Listas%20Encadeadas) 
 	*  [Pilas e Filas](#multiple-files) 
 	*  [Tabela de Dispersão](#pre-requisitos) 
 	*  [Grafos](#multiple-files) 
@@ -27,9 +27,11 @@ Tabela de conteúdos
 
 ## Sobre
 <p>
-Basicamente eu dividi o conteúdo em Algoritmos Básicos, que é onde eu explico o que é algoritmo, notação Big O e mostro alguns algoritmos de busca e ordenação, e Estrutura de  Dados, que é onde eu falo sobre algumas estruturas mais complicadinhas como listas encadeadas, tabela de dispersão(ou tabela Hash) e grafos.
-</p>
+Basicamente eu dividi o conteúdo em Algoritmos Básicos, que é onde eu explico o que é algoritmo, notação Big O e mostro alguns algoritmos de busca e ordenação, e Estrutura de Dados, que é onde eu falo sobre algumas estruturas mais complicadinhas como listas encadeadas, tabela de dispersão(ou tabela Hash) e grafos.
 
+### Observação:
+Os código em C foram feitos no CodeBlocks então para abrir os projetos é só entrar no clodeblocks e abrir o arquivo ".cbp", caso queira editar ou rodar os projetos.
+</p>
 
 ## 🛠 Tecnologias 
 As seguintes ferramentas foram usadas na construção do projeto: 

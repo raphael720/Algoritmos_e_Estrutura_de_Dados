@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1642115280 source:c:\users\rapha\onedrive\desktop\raphael\projetos\estrutura de dados\pilhas e filas\pilha_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1642114939 c:\users\rapha\onedrive\desktop\raphael\projetos\estrutura de dados\pilhas e filas\pilha_vetor\pilha.h
+
+1642115289 source:c:\users\rapha\onedrive\desktop\raphael\projetos\estrutura de dados\pilhas e filas\pilha_vetor\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1642115289 source:c:\users\rapha\onedrive\desktop\algoritmos\algoritmos_e_estrutura_de_dados\pilhas e filas\pilhas\pilha_vetor\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1642114939 c:\users\rapha\onedrive\desktop\algoritmos\algoritmos_e_estrutura_de_dados\pilhas e filas\pilhas\pilha_vetor\pilha.h
+
+1642115319 source:c:\users\rapha\onedrive\desktop\algoritmos\algoritmos_e_estrutura_de_dados\pilhas e filas\pilhas\pilha_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
