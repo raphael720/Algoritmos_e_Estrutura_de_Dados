@@ -13,12 +13,12 @@ Tabela de conteúdos
 <!--ts--> 
 * [Sobre](#Sobre) 
 * [Tabela de Conteúdo](#tabela-de-conteudo) 
-*  [Algoritmos básicos](#como-usar) 
+*  [Algoritmos básicos](#) 
 	*  [Busca](https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/tree/main/Busca%20e%20ordena%C3%A7%C3%A3o) 
 	*  [Ordenação](https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/tree/main/Busca%20e%20ordena%C3%A7%C3%A3os) 
 * [Estrutura de dados](#)
 	*  [Listas encadeadas](https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/tree/main/Listas%20Encadeadas) 
-	*  [Pilas e Filas](#multiple-files) 
+	*  [Pilas e Filas](https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/tree/main/Pilhas%20e%20Filas) 
 	*  [Tabela de Dispersão](#pre-requisitos) 
 	*  [Grafos](#multiple-files) 
 * [Tecnologias](#tecnologias) 
@@ -38,6 +38,20 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [C](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan-dp-0131103628/dp/0131103628/ref=mt_other?_encoding=UTF8&me=&qid=1640896966)
 - [Python](https://www.python.org/) 
 - [Java](https://www.java.com/pt-BR/)
+
+## Referencias
+
+### Aqui estão os livros e sites que eu usei como referencia para fazer esse repositório
+
+- Livros
+	- Introdução a Estruturas de Dados - Com Técnicas de Programação em C
+	- Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos
+- Sites
+	- https://blog.pantuza.com/artigos/busca-binaria
+	- https://algoritmosempython.com.br/cursos/algoritmos-python/pesquisa-ordenacao/pesquisa-binaria/
+	- https://www.embarcados.com.br/algoritmos-de-ordenacao-bubble-sort/
+	- https://www.geeksforgeeks.org/selection-sort/
+	- https://dev.to/danielle8farias/complexidade-de-algoritmos-notacao-big-o-26al
 
 ## Autor
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/raphael720" width="100px;" alt=""/>

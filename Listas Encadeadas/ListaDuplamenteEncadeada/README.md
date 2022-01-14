@@ -4,7 +4,4 @@ Na estrutura de lista encadeada não temos como percorrer eficientemente os elem
 
 Para solucionar esses problemas, podemos formar o que se chama de  listas duplamente encadeadas. Nelas, cada elemento tem um ponteiro para o próximo elemento e um ponteiro para o elemento anterior. Desta forma, dado um elemento, podemos acessar ambos os elementos adjacentes: o próximo e o anterior. Se tivermos um ponteiro para o último elemento da lista, podemos percorrer a lista em ordem inversa, bastando acessar continuamente o elemento anterior, até alcançar o primeiro elemento da lista, que não tem elemento anterior (o ponteiro do elemento anterior vale  NULL ). 
 
-![Figura](https://jigsaw.minhabiblioteca.com.br/books/9788595156654/epub/OEBPS/Images/fig14-8.jpg)
-
-Figura: Arranjo da memória de uma lista duplamente encadeada.
 </p>
