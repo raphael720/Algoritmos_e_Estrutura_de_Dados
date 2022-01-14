@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1642188779 source:c:\users\rapha\onedrive\desktop\raphael\projetos\estrutura de dados\pilhas e filas\filas\fila_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1642188338 c:\users\rapha\onedrive\desktop\raphael\projetos\estrutura de dados\pilhas e filas\filas\fila_vetor\fila.h
+
+1642189207 source:c:\users\rapha\onedrive\desktop\raphael\projetos\estrutura de dados\pilhas e filas\filas\fila_vetor\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+

@@ -34,6 +34,12 @@ int pilha_vazia (Pilha* p) {
 }
 
 void pilha_libera (Pilha* p) {
+    No* aux = p->primeiro;
+    while(aux != NULL) {
+        No* t = aux->next;
+        free(aux);
+        aux = t;
+    }
     free(p);
 }
 
