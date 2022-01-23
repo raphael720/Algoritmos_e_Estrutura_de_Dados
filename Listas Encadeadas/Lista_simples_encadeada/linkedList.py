@@ -19,26 +19,25 @@ class LinkedList:
     def __len__(self):
         return self._size
     
-    # Sobregarga de operador
-    def __getitem__(self, index):
+    def _getnode(self, index):
         pointer = self.head
         for i in range(index):
             if pointer:
                 pointer = pointer.next
             else:
                 raise IndexError("list index out of range")
+        return pointer
+                
+    # Sobregarga de operador
+    def __getitem__(self, index):
+        pointer = self._getnode(index)
         if pointer:
             return pointer.data
         raise IndexError("list index out of range")
     
     # Sobregarga de operador
     def __setitem__(self, index, elemento):
-        pointer = self.head
-        for i in range(index):
-            if pointer:
-                pointer = pointer.next
-            else:
-                raise IndexError("list index out of range")
+        pointer = self._getnode(index)
         if pointer:
             pointer.data = elemento
         else:
@@ -54,10 +53,45 @@ class LinkedList:
             pointer = pointer.next
             i += 1
         raise ValueError(f"{elemento} is not in list")
-            
-    def print_list(self):
+        
+    def insert(self, index, elemento):
+        node = Node(elemento)
+        if index == 0:
+            node.next = self.head
+            self.head = node
+        else:
+            pointer = self._getnode(index-1)
+            node.next = pointer.next
+            pointer.next = node
+        self._size += 1
+        
+    def remove(self, elemento):
+        if self.head == None:
+            raise ValueError(f"{elemento} is not in list")
+        elif self.head.data == elemento:
+            self.head = self.head.next
+            self._size -= 1
+            return True
+        else:
+            antecessor = self.head
+            pointer = self.head.next
+            while pointer:
+                if pointer.data == elemento:
+                    antecessor.next = pointer.next
+                    pointer.next = None
+                antecessor = pointer
+                pointer = pointer.next
+            self._size -= 1
+            return True
+        raise ValueError(f"{elemento} is not in list")
+                        
+    def __repr__(self):
+        r = ""
         node = self.head
-        while(node != None):
-            print(node.data)
+        while(node):
+            r = r + str(node.data) + "->"
             node = node.next
+        return r
     
+    def __str__(self):
+        return self.__repr__()
