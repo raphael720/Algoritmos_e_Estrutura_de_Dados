@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1643397083 source:c:\users\rapha\onedrive\desktop\algoritmos\algoritmos_e_estrutura_de_dados\hash tables (tabelas de disperção)\matricula_aluno_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hash_aluno.h"
+
+1643397102 c:\users\rapha\onedrive\desktop\algoritmos\algoritmos_e_estrutura_de_dados\hash tables (tabelas de disperção)\matricula_aluno_vetor\hash_aluno.h
+
+1643397096 source:c:\users\rapha\onedrive\desktop\algoritmos\algoritmos_e_estrutura_de_dados\hash tables (tabelas de disperção)\matricula_aluno_vetor\hash_aluno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hash_aluno.h"
+
