@@ -30,7 +30,8 @@ Tabela de conteúdos
 Basicamente eu dividi o conteúdo em Algoritmos Básicos, que é onde eu explico o que é algoritmo, notação Big O e mostro alguns algoritmos de busca e ordenação, e Estrutura de Dados, que é onde eu falo sobre algumas estruturas mais complicadinhas como listas encadeadas, tabela de dispersão(ou tabela Hash) e grafos.
 
 ### Observação:
-Os código em C foram feitos no CodeBlocks então para abrir os projetos é só entrar no clodeblocks e abrir o arquivo ".cbp", caso queira editar ou rodar os projetos.
+- Os códigos em C foram feitos no CodeBlocks então para abrir os projetos é só entrar no clodeblocks e abrir o arquivo ".cbp", caso queira editar ou rodar os projetos.
+- Os códigos em Java foram feitos tanto no VScode quanto no NetBeans, por isso que alguns projetos tem uma leve diferença na organização das pastas.
 </p>
 
 ## 🛠 Tecnologias 
@@ -52,6 +53,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 	- https://www.embarcados.com.br/algoritmos-de-ordenacao-bubble-sort/
 	- https://www.geeksforgeeks.org/selection-sort/
 	- https://dev.to/danielle8farias/complexidade-de-algoritmos-notacao-big-o-26al
+	- https://www.ime.usp.br/~pf/mac0122-2002/aulas/hashing.html
+	- https://pt.wikipedia.org/wiki/Tabela_de_dispers%C3%A3o#:~:text=Em%20ci%C3%AAncia%20da%20computa%C3%A7%C3%A3o%2C%20uma,e%20obter%20o%20valor%20desejado.
+	- https://www.devmedia.com.br/algoritmos-de-ordenacao-em-java/32693
 
 ## Autor
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/raphael720" width="100px;" alt=""/>
