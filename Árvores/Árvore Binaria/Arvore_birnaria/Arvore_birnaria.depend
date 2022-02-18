@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1644347189 source:c:\users\rapha\onedrive\desktop\algoritmos\algoritmos_e_estrutura_de_dados\햞vores\햞vore binaria\arvore_birnaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore_binaria.h"
+
+1644347178 c:\users\rapha\onedrive\desktop\algoritmos\algoritmos_e_estrutura_de_dados\햞vores\햞vore binaria\arvore_birnaria\arvore_binaria.h
+
+1644347182 source:c:\users\rapha\onedrive\desktop\algoritmos\algoritmos_e_estrutura_de_dados\햞vores\햞vore binaria\arvore_birnaria\arvore_binaria.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"arvore_binaria.h"
+
