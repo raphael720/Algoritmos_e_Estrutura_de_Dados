@@ -3,9 +3,9 @@
 <p align="center">💻 Meus estudos sobre algoritmos e estruturas de dados</p>
 
 <div align="center">
-<a href="https://github.com/raphael720/codigo-da-maratona-discover/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/raphael720/codigo-da-maratona-discover?style=for-the-badge"></a>
-<a href="https://github.com/raphael720/codigo-da-maratona-discover/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/raphael720/codigo-da-maratona-discover?style=for-the-badge"></a>
-<a href="https://github.com/raphael720/codigo-da-maratona-discover/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/raphael720/codigo-da-maratona-discover?style=for-the-badge"></a>
+<a href="https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/raphael720/Algoritmos_e_Estrutura_de_Dados?style=for-the-badge"></a>
+<a href="https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/raphael720/Algoritmos_e_Estrutura_de_Dados?style=for-the-badge"></a>
+<a href="https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/raphael720/Algoritmos_e_Estrutura_de_Dados?style=for-the-badge"></a>
 </div>
 
 Tabela de conteúdos 
