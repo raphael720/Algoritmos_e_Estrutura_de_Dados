@@ -1,4 +1,4 @@
-<h1 align="center">Busca e Ordenação<\h1>
+<h1 align="center">Busca e Ordenação </h1>
 
 ## Sobre 
 <p>
