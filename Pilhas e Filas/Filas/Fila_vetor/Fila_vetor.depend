@@ -12,3 +12,16 @@
 	<string.h>
 	"fila.h"
 
+1650548830 source:c:\users\rapha\onedrive\desktop\algoritmos\algoritmos_e_estrutura_de_dados\pilhas e filas\filas\fila_vetor\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+
+1650548830 c:\users\rapha\onedrive\desktop\algoritmos\algoritmos_e_estrutura_de_dados\pilhas e filas\filas\fila_vetor\fila.h
+
+1650548865 source:c:\users\rapha\onedrive\desktop\algoritmos\algoritmos_e_estrutura_de_dados\pilhas e filas\filas\fila_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+

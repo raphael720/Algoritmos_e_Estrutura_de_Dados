@@ -29,6 +29,7 @@ void fila_push(Fila* f, int valor) {
     else
         f->inicio = elemento;
     f->fim = elemento;
+    f->tamanho++;
 }
 
 void fila_pop(Fila* f) {
@@ -37,6 +38,19 @@ void fila_pop(Fila* f) {
     if(f->inicio == NULL) // Verificando se a fila ta vazia
         f->fim = NULL;
     free(aux);
+    f->tamanho--;
+}
+
+int fila_peek(Fila* f) {
+    if (f->tamanho > 0) {
+        return f->inicio->info;
+    }
+    printf("A fila esta vazia!!");
+    return 0;
+}
+
+int fila_size(Fila* f){
+    return f->tamanho;
 }
 
 int fila_vazia(Fila* f) {

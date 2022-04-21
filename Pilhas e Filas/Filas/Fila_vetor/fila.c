@@ -24,6 +24,8 @@ void fila_push(Fila* f, int valor) {
     if (f->tamanho == f->dim) {
         f->dim *= 2;
         f->vetor = (int*) realloc(f->vetor, f->dim * sizeof(int));
+        //para qualquer valor indice_ini != 0 precisa deslocar os novos valores para o final do novo vetor
+        //Para fazer este deslocamento, usaremos a função memmove
         if(f->indice_ini != 0) {
             destino = f->dim - f->indice_ini;
             numero_bytes = (f->tamanho - f->indice_ini) * sizeof(int);
@@ -39,6 +41,18 @@ void fila_pop(Fila* f) {
     int v = f->vetor[f->indice_ini];
     f->indice_ini = (f->indice_ini + 1) % f->dim;
     f->tamanho--;
+}
+
+int fila_peek(Fila* f) {
+    if (f->tamanho > 0) {
+        return f->vetor[f->indice_ini];
+    }
+    printf("A fila esta vazia!!");
+    return 0;
+}
+
+int fila_size(Fila* f) {
+    return f->tamanho;
 }
 
 int fila_vazia(Fila* f) {
