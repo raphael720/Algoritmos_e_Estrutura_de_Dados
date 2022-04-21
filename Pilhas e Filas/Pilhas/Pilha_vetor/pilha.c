@@ -33,6 +33,18 @@ int pilha_pop(Pilha* p) {
     return elemento;
 }
 
+int pilha_peek(Pilha* p) {
+    if (p->tamanho > 0) {
+        return p->vetor[p->tamanho-1];
+    }
+    printf("A pilha esta vazia!!");
+    return 0;
+}
+
+int pilha_size(Pilha* p) {
+    return p->tamanho;
+}
+
 int pilha_vazia(Pilha* p) {
     return (p->tamanho == 0);
 }

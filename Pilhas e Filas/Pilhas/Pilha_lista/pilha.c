@@ -9,11 +9,14 @@ struct no{
 
 struct pilha{
     No* primeiro;
+    int size;
 };
 
 Pilha* cria_pilha () {
     Pilha* p = (Pilha*) malloc(sizeof(Pilha));
     p->primeiro = NULL;
+    p->size = 0;
+    return p;
 }
 
 void pilha_push (Pilha* p, int valor) {
@@ -21,12 +24,22 @@ void pilha_push (Pilha* p, int valor) {
     elemento->data = valor;
     elemento->next = p->primeiro;
     p->primeiro = elemento;
+    p->size++;
 }
 
 int pilha_pop (Pilha* p) {
     No* aux = p->primeiro;
     p->primeiro = aux->next;
+    p->size--;
     free(aux);
+}
+
+int pilha_peek (Pilha* p) {
+    if (!pilha_vazia(p)) {
+        return p->primeiro->data;
+    }
+    printf("Pilha esta vazia!!");
+    return 0;
 }
 
 int pilha_vazia (Pilha* p) {
@@ -41,6 +54,10 @@ void pilha_libera (Pilha* p) {
         aux = t;
     }
     free(p);
+}
+
+int pilha_size(Pilha* p) {
+    return p->size;
 }
 
 void print_pilha(Pilha* p) {
