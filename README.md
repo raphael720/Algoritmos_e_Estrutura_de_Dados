@@ -15,7 +15,7 @@ Tabela de conteúdos
 * [Sobre](#Sobre) 
 * [Tabela de Conteúdo](#tabela-de-conteudo) 
 *  [Algoritmos](#) 
-	* [o que é](#O-que-é-algoritmo?) 
+	* [o que é](#O-que-é-algoritmo) 
 	*  [Busca](https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/tree/main/Busca%20e%20ordena%C3%A7%C3%A3o) 
 	*  [Ordenação](https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/tree/main/Busca%20e%20ordena%C3%A7%C3%A3os) 
 * [Estrutura de dados](#)
@@ -28,6 +28,9 @@ Tabela de conteúdos
 * [Tecnologias](#tecnologias) 
 * [Autor](#Autor) 
 <!--te-->
+
+## Status do projeto
+<h3 align='center'> 🚧 Repositório Em construção... 🚧 </h3>
 
 ## Sobre
 <p>
