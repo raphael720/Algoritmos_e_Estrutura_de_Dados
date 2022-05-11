@@ -17,7 +17,7 @@ Tabela de conteúdos
 *  [Algoritmos](#) 
 	* [o que é](#O-que-é-algoritmo) 
 	*  [Busca](https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/tree/main/Busca%20e%20ordena%C3%A7%C3%A3o) 
-	*  [Ordenação](https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/tree/main/Busca%20e%20ordena%C3%A7%C3%A3os) 
+	*  [Ordenação](https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/tree/main/Busca%20e%20ordena%C3%A7%C3%A3o) 
 * [Estrutura de dados](#)
 	*  [Listas encadeadas](https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/tree/main/Listas%20Encadeadas) 
 	*  [Pilas e Filas](https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/tree/main/Pilhas%20e%20Filas) 
